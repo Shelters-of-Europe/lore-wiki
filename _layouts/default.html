@@ -15,15 +15,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    <style>
-        @media screen and (max-width: 767px) {
-            .content-desktop {
-              display: none;
-            }
-        }
-    </style>
-
     {% include head-custom.html %}
   </head>
   <body>
@@ -42,7 +33,7 @@
 
       </section>
 
-    <div class="content-desktop">
+    <div style="@media screen and (max-width: 767px) {.content-desktop {display: none;}}">
         <img source="https://cdn.discordapp.com/attachments/721397179947941969/1024350826371760128/Screenshot_20220927-180403_Browser.png">
     </div>
 
