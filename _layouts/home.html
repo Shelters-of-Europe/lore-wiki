@@ -26,17 +26,16 @@
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
         </div>
 
-      </section>
-
-      <h2>{{ site.data.samplelist.docs_list_title }}</h2>
-      <ul>
-        {% for item in site.data.samplelist.docs %}
+        <h2>{{ site.data.samplelist.docs_list_title }}</h2>
+        <ul>
+          {% for item in site.data.samplelist.docs %}
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
+          {% endfor %}
+        </ul>
+
+      </section>
 
     </div>
   </body>
