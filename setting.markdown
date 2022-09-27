@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Setting
-permalink: /setting/
 ---
 
 Wir schreiben das Jahr 2365, und auch wenn im Vergleich zu den frühen 2000ern nicht sehr viele Menschen übrig sind, so ist der technische Fortschritt, den die Menschheit machte, doch nicht zu vernachlässigen. Die letzten 20% der Menschheit schafften es nämlich, sich zum Schutz vor den radioaktiven Überbleibseln eines nuklearen Krieges zurückzuziehen und in kuppelförmigen Bastionen zu überleben. Diese Bastionen nannte man Shelter, und zuerst wurden sie von den großen Firmen der Welt finanziert. Schnell übernahmen dann aber auch die verschiedenen Länder Kontrolle und Finanzierung, denn jene Shelter waren die Zukunft der Menschheit. Heute existieren auf der Welt 11 dieser Shelter, und in den drei Europäischen findet ihr euch wieder. Jetzt liegt es in einer Welt voller Cyberware, Ungerechtigkeit und Korruption an euch, die Geheimnisse und Machenschaften dieser Welt aufzudecken. Aus welcher Schicht kommt ihr? Was arbeitet ihr? Wer seid ihr? Aus welchem der ehemaligen Länder stammt eure Familie? All das sind Dinge, für die ihr euch entscheidet, doch die Sache, die euch alle vereint, ist, dass ihr Runner seid.
