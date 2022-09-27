@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <li class="credits left" href="https://shelters-of-europe.github.io">Home</li>
     {% include head-custom.html %}
   </head>
   <body>
@@ -27,6 +26,7 @@
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <li class="credits left" href="https://shelters-of-europe.github.io">Home</li>
           <hr>
         </div>
 
